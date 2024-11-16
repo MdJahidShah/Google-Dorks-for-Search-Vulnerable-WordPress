@@ -68,66 +68,70 @@ This repository provides a comprehensive list of **Google Dorks** to help identi
 
 
 ## WordPress Vulnerability Scanning Tools
+Here's the formatted list you requested:  
 
-1. **WPScan**: WPScan is a popular WordPress security scanner written for security professionals and blog maintainers to test the security of their WordPress websites. For real-time vulnerability data, it uses the WordPress Vulnerability Database API.
-   - **URL**: [WPScan](https://github.com/wpscanteam/wpscan)
+---
 
-3. **HackerTarget.com**: HackerTarget.com offers an online WordPress security scanner that tests for vulnerabilities in a WordPress installation. It includes checks for application security, WordPress plugins, hosting environment, and web server.
-   - **URL**: [HackerTarget.com](https://hackertarget.com/wordpress-security-scan/)
+1. **WPScan**: WPScan is a popular WordPress security scanner written for security professionals and blog maintainers to test the security of their WordPress websites. For real-time vulnerability data, it uses the WordPress Vulnerability Database API.  
+   - **URL**: [WPScan](https://github.com/wpscanteam/wpscan)  
 
-4. **Pentest-Tools.com**: This tool helps discover security issues and vulnerabilities in WordPress websites using the WPScan scanner. It performs multiple tests to identify security weaknesses remotely, simulating an external attacker.
-   - **URL**: [Pentest-Tools.com](https://pentest-tools.com/cms-vulnerability-scanning/wordpress-scanner-online-wpscan)
+2. **HackerTarget.com**: HackerTarget.com offers an online WordPress security scanner that tests for vulnerabilities in a WordPress installation. It includes checks for application security, WordPress plugins, hosting environment, and web server.  
+   - **URL**: [HackerTarget.com](https://hackertarget.com/wordpress-security-scan/)  
 
-5. **Sucuri**: Sucuri offers a comprehensive security solution for WordPress, including a vulnerability scanner that checks for malware, blacklisting status, and other security issues.
-   - **URL**: [Sucuri](https://www.wpwebsitehelp.com/wordpress-security-vulnerabilities-scanner-tool/)
+3. **Pentest-Tools.com**: This tool helps discover security issues and vulnerabilities in WordPress websites using the WPScan scanner. It performs multiple tests to identify security weaknesses remotely, simulating an external attacker.  
+   - **URL**: [Pentest-Tools.com](https://pentest-tools.com/cms-vulnerability-scanning/wordpress-scanner-online-wpscan)  
 
-6. **Wordfence**: Wordfence is a WordPress security plugin that includes a vulnerability scanner, firewall, and malware removal tools. It scans for known vulnerabilities in WordPress core, themes, and plugins.
-   - **URL**: [Wordfence](https://www.wpwebsitehelp.com/wordpress-security-vulnerabilities-scanner-tool/)
+4. **Sucuri**: Sucuri offers a comprehensive security solution for WordPress, including a vulnerability scanner that checks for malware, blacklisting status, and other security issues.  
+   - **URL**: [Sucuri](https://www.wpwebsitehelp.com/wordpress-security-vulnerabilities-scanner-tool/)  
 
-7. **WPRecon**: WPRecon is an online tool that scans WordPress for vulnerabilities and provides detailed information about each one. It helps identify and fix security issues in WordPress installations.
-   - **URL**: [WPRecon](https://www.wpwebsitehelp.com/wordpress-security-vulnerabilities-scanner-tool/)
+5. **Wordfence**: Wordfence is a WordPress security plugin that includes a vulnerability scanner, firewall, and malware removal tools. It scans for known vulnerabilities in WordPress core, themes, and plugins.  
+   - **URL**: [Wordfence](https://www.wpwebsitehelp.com/wordpress-security-vulnerabilities-scanner-tool/)  
 
-8. **GeekFlare Vulnerability Scanner**: GeekFlare offers a free vulnerability scanner for WordPress that checks for common security issues and provides recommendations for improving security.
-   - **URL**: [GeekFlare](https://www.wpwebsitehelp.com/wordpress-security-vulnerabilities-scanner-tool/)
+6. **WPRecon**: WPRecon is an online tool that scans WordPress for vulnerabilities and provides detailed information about each one. It helps identify and fix security issues in WordPress installations.  
+   - **URL**: [WPRecon](https://www.wpwebsitehelp.com/wordpress-security-vulnerabilities-scanner-tool/)  
 
-9. **VirusTotal**: VirusTotal is a free online service that analyzes files and URLs for viruses, worms, trojans, and other kinds of malicious content. It can be used to scan WordPress files for malware.
-   - **URL**: [VirusTotal](https://www.wpwebsitehelp.com/wordpress-security-vulnerabilities-scanner-tool/)
+7. **GeekFlare Vulnerability Scanner**: GeekFlare offers a free vulnerability scanner for WordPress that checks for common security issues and provides recommendations for improving security.  
+   - **URL**: [GeekFlare](https://www.wpwebsitehelp.com/wordpress-security-vulnerabilities-scanner-tool/)  
 
-10. **Netsparker**: Netsparker is a web application security scanner that can identify vulnerabilities in WordPress websites. It offers both online and offline scanning options.
-   - **URL**: [Netsparker](https://www.netsparker.com/)
+8. **VirusTotal**: VirusTotal is a free online service that analyzes files and URLs for viruses, worms, trojans, and other kinds of malicious content. It can be used to scan WordPress files for malware.  
+   - **URL**: [VirusTotal](https://www.wpwebsitehelp.com/wordpress-security-vulnerabilities-scanner-tool/)  
 
-11. **Acunetix**: Acunetix is a web vulnerability scanner that can detect vulnerabilities in WordPress websites. With this software, you can scan and report comprehensively.
-    - **URL**: [Acunetix](https://www.acunetix.com/)
+9. **Netsparker**: Netsparker is a web application security scanner that can identify vulnerabilities in WordPress websites. It offers both online and offline scanning options.  
+   - **URL**: [Netsparker](https://www.netsparker.com/)  
 
-12. **Detectify**: Detectify is a web security scanner that can identify vulnerabilities in WordPress websites. It offers automated scanning and detailed reports.
-    - **URL**: [Detectify](https://detectify.com/)
+10. **Acunetix**: Acunetix is a web vulnerability scanner that can detect vulnerabilities in WordPress websites. With this software, you can scan and report comprehensively.  
+   - **URL**: [Acunetix](https://www.acunetix.com/)  
 
-13. **SiteLock**: SiteLock offers a website security solution that includes a vulnerability scanner for WordPress websites. It can detect and fix security issues automatically.
-    - **URL**: [SiteLock](https://www.sitelock.com/)
+11. **Detectify**: Detectify is a web security scanner that can identify vulnerabilities in WordPress websites. It offers automated scanning and detailed reports.  
+   - **URL**: [Detectify](https://detectify.com/)  
 
-14. **Quttera**: Quttera offers a malware and vulnerability scanner for WordPress websites. It can detect malicious code and security vulnerabilities.
-    - **URL**: [Quttera](https://quttera.com/)
+12. **SiteLock**: SiteLock offers a website security solution that includes a vulnerability scanner for WordPress websites. It can detect and fix security issues automatically.  
+   - **URL**: [SiteLock](https://www.sitelock.com/)  
 
-15. **UpGuard**: UpGuard offers a website security scanner that can identify vulnerabilities in WordPress websites. It provides detailed reports and recommendations for improving security.
-    - **URL**: [UpGuard](https://www.upguard.com/)
+13. **Quttera**: Quttera offers a malware and vulnerability scanner for WordPress websites. It can detect malicious code and security vulnerabilities.  
+   - **URL**: [Quttera](https://quttera.com/)  
 
-16. **Astra Security**: Astra Security offers a comprehensive security solution for WordPress websites, including a vulnerability scanner that checks for malware, blacklisting status, and other security issues.
-    - **URL**: [Astra Security](https://www.getastra.com/)
+14. **UpGuard**: UpGuard offers a website security scanner that can identify vulnerabilities in WordPress websites. It provides detailed reports and recommendations for improving security.  
+   - **URL**: [UpGuard](https://www.upguard.com/)  
 
-17. **MalCare**: MalCare is a WordPress security plugin that includes a vulnerability scanner, firewall, and malware removal tools. It scans for known vulnerabilities in WordPress core, themes, and plugins.
-    - **URL**: [MalCare](https://www.malcare.com/)
+15. **Astra Security**: Astra Security offers a comprehensive security solution for WordPress websites, including a vulnerability scanner that checks for malware, blacklisting status, and other security issues.  
+   - **URL**: [Astra Security](https://www.getastra.com/)  
 
-18. **WordPress Security Scan**: WordPress Security Scan is an online tool that scans WordPress websites for vulnerabilities and provides detailed reports on security issues.
-    - **URL**: [WordPress Security Scan](https://wordpress.org/plugins/wp-security-scan/)
+16. **MalCare**: MalCare is a WordPress security plugin that includes a vulnerability scanner, firewall, and malware removal tools. It scans for known vulnerabilities in WordPress core, themes, and plugins.  
+   - **URL**: [MalCare](https://www.malcare.com/)  
 
-19. **WP Neuron**: WP Neuron offers a vulnerability scanner for WordPress websites that can detect security issues and provide recommendations for improving security.
-    - **URL**: [WP Neuron](https://wpneuron.com/)
+17. **WordPress Security Scan**: WordPress Security Scan is an online tool that scans WordPress websites for vulnerabilities and provides detailed reports on security issues.  
+   - **URL**: [WordPress Security Scan](https://wordpress.org/plugins/wp-security-scan/)  
 
-20. **WP White Security**: WP White Security offers a range of security tools for WordPress websites, including a vulnerability scanner that checks for known security issues.
-    - **URL**: [WP White Security](https://www.wpwhitesecurity.com/)
+18. **WP Neuron**: WP Neuron offers a vulnerability scanner for WordPress websites that can detect security issues and provide recommendations for improving security.  
+   - **URL**: [WP Neuron](https://wpneuron.com/)  
 
-21. **WP Hacked Help**: WP Hacked Help offers a vulnerability scanner for WordPress websites that can detect and fix security issues. It also provides malware removal and website cleanup services.
-    - **URL**: [WP Hacked Help](https://www.wphackedhelp.com/)
+19. **WP White Security**: WP White Security offers a range of security tools for WordPress websites, including a vulnerability scanner that checks for known security issues.  
+   - **URL**: [WP White Security](https://www.wpwhitesecurity.com/)  
+
+20. **WP Hacked Help**: WP Hacked Help offers a vulnerability scanner for WordPress websites that can detect and fix security issues. It also provides malware removal and website cleanup services.  
+   - **URL**: [WP Hacked Help](https://www.wphackedhelp.com/)  
+
 ---
 ### Disclaimer:
 This information is provided for ethical purposes only. Misuse of these Google dorks for malicious intent is against ethical guidelines and may violate laws. Always obtain proper authorization before testing or auditing any website. To know more, read my blog about [WordPress Security](https://jahidshah.com/category/website-security/).  
